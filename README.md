@@ -19,6 +19,11 @@ const catchall = "yourcatchall.com"
 const sportsUrl = "https://rafflelink.com" // From reporting.jdsports.co.uk
 const proxy = 'http://username:password@hostUrl:port' // Required
 ```
+Afterwards, use the following command to start the script.
+
+```bash
+node main
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
